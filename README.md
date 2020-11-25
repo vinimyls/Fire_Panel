@@ -18,8 +18,8 @@ the Nextion display will warm about the fire, allowing the system to be reset.
 
 ## :computer: Code
 
-- [Code](https://github.com/vinimyls/Fire_Panel/blob/main/electronic_lock/electronic_lock.ino)
-- [HMI file for nextion editor](https://github.com/vinimyls/Fire_Panel/blob/main/Fire_Panel.HMI)
+- [Code](https://github.com/vinimyls/Fire_Panel/blob/main/fire_panel/fire_panel.ino)
+- [HMI file for nextion editor](https://github.com/vinimyls/Fire_Panel/blob/main/smoke.HMI)
 ## :electric_plug: Hardware
 - ![Diagram](https://github.com/vinimyls/Fire_Panel/blob/main/pic/diagram.png)
 ## :warning: Prerequisites
