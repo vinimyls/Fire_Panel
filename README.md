@@ -6,6 +6,7 @@ This is an application with nextion tft display.
 
 Simulate a conventional fire alarm panel.
 
+![Fire](https://github.com/vinimyls/Fire_Panel/blob/main/pic/smoke.gif)
 
 ### How this work?
 
